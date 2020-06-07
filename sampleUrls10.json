@@ -1,0 +1,38 @@
+[
+	{
+		"url": "http://doesNotkeqExist.boldtech.co",
+		"priority": 1
+	},
+	{
+		"url": "http://hjfbsdfjkhbvkdfg.co",
+		"priority": 7
+	},
+	{
+		"url": "http://vkjdfhdsfb.boldtech.co",
+		"priority": 2
+	},
+	{
+		"url": "http://googfnkdhjble.com",
+		"priority": 4000
+	},
+	{
+		"url": "http://vkjdsvjdfsv.com",
+		"priority": 3000
+	},
+	{
+		"url": "http://hwfbhjbgbhjd.com",
+		"priority": 900
+	},
+	{
+		"url": "https://www.hjdfsbvjsf.com/",
+		"priority": 13
+	},
+	{
+		"url": "https://www.fhjsdbds.com/",
+		"priority": 1
+	},
+	{
+		"url": "https://www.bfghsdbfdf.com/",
+		"priority": 15
+	}
+]

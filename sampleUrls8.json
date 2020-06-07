@@ -1,0 +1,38 @@
+[
+	{
+		"url": "http://doesNotExist.boldtech.co",
+		"priority": 1
+	},
+	{
+		"url": "http://boldtech.co",
+		"priority": 7
+	},
+	{
+		"url": "http://offline.boldtech.co",
+		"priority": 2
+	},
+	{
+		"url": "http://google.com",
+		"priority": 400
+	},
+	{
+		"url": "http://amazon.com",
+		"priority": 300
+	},
+	{
+		"url": "http://facebook.com",
+		"priority": 900
+	},
+	{
+		"url": "https://www.youtube.com/",
+		"priority": 13
+	},
+	{
+		"url": "https://www.stackoverflow.com/",
+		"priority": 1
+	},
+	{
+		"url": "https://www.udemy.com/",
+		"priority": 15
+	}
+]
